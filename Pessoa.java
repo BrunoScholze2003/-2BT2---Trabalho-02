@@ -20,6 +20,6 @@ public class Pessoa {
     }
 
     public String getNome(){
-        return this.nome.toString();
+        return this.nome;
     }
 }
